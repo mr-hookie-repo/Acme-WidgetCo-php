@@ -4,11 +4,10 @@ This project implements a proof of concept for Acme Widget Co's new sales system
 
 ## Features
 
-- Product catalog management
+- Product Catalog 
 - Special offer implementation
 - Dynamic delivery cost calculation
-- Basket functionality with add and total methods
-- 
+
 ## Assumptions
 
 - Products and offers are pre-loaded into the in-memory database.
