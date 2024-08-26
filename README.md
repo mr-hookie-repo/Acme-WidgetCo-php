@@ -14,7 +14,7 @@ This is a simple shopping basket application built with PHP and JavaScript. It a
 - `index.php`: The main page of the application
 - `basket.php`: Contains the Basket class for managing the shopping basket
 - `ajax.php`: Handles AJAX requests for basket operations
-- `js/main.js`: Contains the JavaScript code for client-side interactions
+- `script/custom.js`: Contains the JavaScript code for client-side interactions
 - `includes/header.php`: Header file for the HTML structure
 - `includes/footer.php`: Footer file for the HTML structure
 
